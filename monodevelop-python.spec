@@ -1,5 +1,5 @@
 Name:     	monodevelop-python
-Version:	2.8
+Version:	2.8.2
 Release:	%mkrel 1
 License:	MIT
 BuildArch:      noarch

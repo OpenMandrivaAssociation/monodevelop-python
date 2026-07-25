@@ -1,6 +1,6 @@
 Name:     	monodevelop-python
 Version:	2.8.5.1
-Release:	%mkrel 1
+Release:	2
 License:	MIT
 BuildArch:      noarch
 URL:		https://www.go-mono.com
